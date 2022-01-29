@@ -1,3 +1,5 @@
+# NOT ADDING NOVEL MECHANISM TO MITIGATE THE CATASTROPHIC FORGETTING, YET TO PUBLISH
+
 General idea about the code:
 
 >Train the classifier on [MNIST/CIFAR] sampled in a mini-batch
